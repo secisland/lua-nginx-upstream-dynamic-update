@@ -1,6 +1,8 @@
 # lua-nginx-upstream-dynamic--update
 动态更新nginx upstream服务节点
 
+# 运行环境
+本脚本可运行于 openresty-1.13.6.2。其他版本未测试，请检查是否存在 cjson, ngx.upstream 模块。
 
 # 快速开始
 
